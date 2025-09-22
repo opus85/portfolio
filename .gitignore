@@ -1,0 +1,10 @@
+# Hugo generated content
+/public/
+/resources/
+.hugo_build.lock
+
+# Optional: Ignore cache and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
