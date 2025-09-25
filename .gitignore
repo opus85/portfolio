@@ -8,3 +8,5 @@
 Thumbs.db
 *.log
 *.bak
+node_modules
+.env
